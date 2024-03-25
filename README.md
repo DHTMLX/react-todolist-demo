@@ -11,6 +11,9 @@ yarn
 yarn start
 ```
 
+You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository) to run online.
+
+
 ## Useful links
 
 - **[Online demo](https://replit.com/@dhtmlx/dhtmlx-to-do-list-with-react)**
