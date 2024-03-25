@@ -2,6 +2,8 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
+![DHTMLX To Do List with React Demo](https://raw.githubusercontent.com/DHTMLX/react-todolist-demo/master/to-do-list.png)
+
 ## How to start
 
 ```
@@ -11,6 +13,8 @@ yarn start
 
 ## Useful links
 
+- **[Online demo](https://replit.com/@dhtmlx/dhtmlx-to-do-list-with-react)**
+- [More demos about the DHTMLX To Do List functionality](https://snippet.dhtmlx.com/3vwlbwee?tag=todolist)
 - [Technical support](https://forum.dhtmlx.com/c/todo)
 - [Online  documentation](https://docs.dhtmlx.com/todolist/)
 

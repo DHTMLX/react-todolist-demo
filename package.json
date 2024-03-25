@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "react-to-do-list-demo",
   "version": "1.0.0",
   "description": "React example starter project",
   "keywords": [
@@ -8,7 +8,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
-    "@dhx/trial-todolist": "1.2.3",
+    "@dhx/trial-todolist": "^1.2.8",
     "loader-utils": "3.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
