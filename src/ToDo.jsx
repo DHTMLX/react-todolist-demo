@@ -14,16 +14,21 @@ export default function ToDoComponent(props) {
       // other configuration properties
     });
 
-    new Toolbar(toolbar_container.current, {
+    const toolbar = new Toolbar(toolbar_container.current, {
       api: todo.api,
       // other configuration properties
     });
 
-    return () => (todo_container.current.innerHTML = "", toolbar_container.current.innerHTML = "");
+    return () => {
+      todo.destructor();
+      toolbar.destructor();
+      todo_container.current.innerHTML = ""; 
+      toolbar_container.current.innerHTML = "";
+    };
   }, []);
 
-  return  <div>
+  return  <div className="component_container">
             <div ref={toolbar_container}></div>
-            <div ref={todo_container} style={{ width: "100%", height: "100%" }}></div>
+            <div ref={todo_container} style={{ height: "calc(100% - 56px)" }}></div>
           </div>
 }
