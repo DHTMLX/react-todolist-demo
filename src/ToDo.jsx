@@ -22,8 +22,6 @@ export default function ToDoComponent(props) {
     return () => {
       todo.destructor();
       toolbar.destructor();
-      todo_container.current.innerHTML = ""; 
-      toolbar_container.current.innerHTML = "";
     };
   }, []);
 
