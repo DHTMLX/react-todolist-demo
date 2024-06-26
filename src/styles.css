@@ -4,4 +4,11 @@ body,
   height: 100%;
   padding: 0;
   margin: 0;
+  background-color: #f7f7f7;
+}
+
+.component_container {
+  height: 100%; 
+  max-width: 800px; 
+  margin: 0 auto;
 }
