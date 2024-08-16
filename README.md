@@ -2,7 +2,7 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
-![DHTMLX To Do List with React Demo](https://raw.githubusercontent.com/DHTMLX/react-todolist-demo/master/to-do-list.png)
+![DHTMLX To Do List with React Demo](to-do-list.png)
 
 ## How to start
 
