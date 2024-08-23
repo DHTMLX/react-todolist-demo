@@ -13,7 +13,9 @@ The DHTMLX [JavaScript To Do List](https://dhtmlx.com/docs/products/dhtmlxTodo/)
 
 ### Online
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DHTMLX/react-todolist-demo) 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DHTMLX/react-todolist-demo)
+
+**Please note**, having clicked on this button, you open the **online demo. Don't worry about paying extra!** With GitHub's free plan, [you get 15 GB of storage and 120 hours of Codespaces use each month](https://docs.github.com/ru/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts). This is more than enough to run our demo without any extra costs.
 
 ### On the local host 
 
@@ -61,7 +63,6 @@ This demo is available under the Evaluation license. To use it in your projects,
 <a name="links"></a>
 ## Useful links
 
-- [Online demo](https://replit.com/@dhtmlx/dhtmlx-to-do-list-with-react)
 - [More demos about the DHTMLX To Do List functionality](https://snippet.dhtmlx.com/3vwlbwee?tag=todolist)
 - [Technical support](https://forum.dhtmlx.com/c/todo)
 - [Online  documentation](https://docs.dhtmlx.com/todolist/)
@@ -73,7 +74,7 @@ Check out examples of using DHTMLX To Do List with other technologies:
 
 | JavaScript | Angular | Svelte | Vue |
 | ----- | ----- | ----- | ----- |
-| [![javascript](https://dhtmlx.com/images/common/technologies/js.svg)](https://github.com/DHTMLX/docs-todolist) | [![angular](https://dhtmlx.com/images/common/technologies/angular.svg)](https://github.com/DHTMLX/angular-todolist-demo) | [![svelte](https://dhtmlx.com/images/common/technologies/svelte.svg)](https://github.com/DHTMLX/svelte-todolist-demo) | [![vue](https://dhtmlx.com/images/common/technologies/vue.svg)](https://github.com/DHTMLX/vue-todolist-demo) |
+| [![javascript](https://dhtmlx.com/images/common/technologies/js.svg)](https://dhtmlx.com/docs/products/dhtmlxTodo/) | [![angular](https://dhtmlx.com/images/common/technologies/angular.svg)](https://github.com/DHTMLX/angular-todolist-demo) | [![svelte](https://dhtmlx.com/images/common/technologies/svelte.svg)](https://github.com/DHTMLX/svelte-todolist-demo) | [![vue](https://dhtmlx.com/images/common/technologies/vue.svg)](https://github.com/DHTMLX/vue-todolist-demo) |
 
 <a name="join"></a>
 ## Join our online community
