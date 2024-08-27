@@ -27,6 +27,6 @@ export default function ToDoComponent(props) {
 
   return  <div className="component_container">
             <div ref={toolbar_container}></div>
-            <div ref={todo_container} style={{ height: "calc(100% - 56px)" }}></div>
+            <div ref={todo_container} className="widget"></div>
           </div>
 }
